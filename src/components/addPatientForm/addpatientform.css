@@ -1,0 +1,15 @@
+.add-form input {
+  margin: 5px;
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.add-form button {
+  margin-top: 10px;
+  padding: 8px 15px;
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}

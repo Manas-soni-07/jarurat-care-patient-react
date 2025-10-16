@@ -1,0 +1,10 @@
+.page-contiainer{
+    padding: 20px;
+    text-align: center;
+}
+.search-bar {
+  padding: 10px;
+  margin-bottom: 20px;
+  width: 80%;
+  max-width: 400px;
+}
